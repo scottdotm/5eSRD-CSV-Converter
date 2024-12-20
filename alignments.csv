@@ -1,0 +1,10 @@
+Index,Name,URL,Description,Abbreviation
+chaotic-evil,Chaotic Evil,/api/alignments/chaotic-evil,"Chaotic evil (CE) creatures act with arbitrary violence, spurred by their greed, hatred, or bloodlust. Demons, red dragons, and orcs are chaotic evil.",CE
+chaotic-good,Chaotic Good,/api/alignments/chaotic-good,"Chaotic good (CG) creatures act as their conscience directs, with little regard for what others expect. Copper dragons, many elves, and unicorns are chaotic good.",CG
+chaotic-neutral,Chaotic Neutral,/api/alignments/chaotic-neutral,"Chaotic neutral (CN) creatures follow their whims, holding their personal freedom above all else. Many barbarians and rogues, and some bards, are chaotic neutral.",CN
+lawful-evil,Lawful Evil,/api/alignments/lawful-evil,"Lawful evil (LE) creatures methodically take what they want, within the limits of a code of tradition, loyalty, or order. Devils, blue dragons, and hobgoblins are lawful evil.",LE
+lawful-good,Lawful Good,/api/alignments/lawful-good,"Lawful good (LG) creatures can be counted on to do the right thing as expected by society. Gold dragons, paladins, and most dwarves are lawful good.",LG
+lawful-neutral,Lawful Neutral,/api/alignments/lawful-neutral,"Lawful neutral (LN) individuals act in accordance with law, tradition, or personal codes. Many monks and some wizards are lawful neutral.",LN
+neutral,Neutral,/api/alignments/neutral,"Neutral (N) is the alignment of those who prefer to steer clear of moral questions and don't take sides, doing what seems best at the time. Lizardfolk, most druids, and many humans are neutral.",N
+neutral-evil,Neutral Evil,/api/alignments/neutral-evil,"Neutral evil (NE) is the alignment of those who do whatever they can get away with, without compassion or qualms. Many drow, some cloud giants, and goblins are neutral evil.",NE
+neutral-good,Neutral Good,/api/alignments/neutral-good,"Neutral good (NG) folk do the best they can to help others according to their needs. Many celestials, some cloud giants, and most gnomes are neutral good.",NG

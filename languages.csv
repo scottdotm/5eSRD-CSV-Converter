@@ -1,0 +1,17 @@
+Index,Name,URL,Description,Typical Speakers,Script,Type of Proficiency
+abyssal,Abyssal,/api/languages/abyssal,,['Demons'],Infernal,Exotic
+celestial,Celestial,/api/languages/celestial,,['Celestials'],Celestial,Exotic
+common,Common,/api/languages/common,,['Humans'],Common,Standard
+deep-speech,Deep Speech,/api/languages/deep-speech,,"['Aboleths', 'Cloakers']",,Exotic
+draconic,Draconic,/api/languages/draconic,Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.,"['Dragons', 'Dragonborn']",Draconic,Exotic
+dwarvish,Dwarvish,/api/languages/dwarvish,Dwarvish is full of hard consonants and guttural sounds.,['Dwarves'],Dwarvish,Standard
+elvish,Elvish,/api/languages/elvish,"Elvish is fluid, with subtle intonations and intricate grammar. Elven literature is rich and varied, and their songs and poems are famous among other races. Many bards learn their language so they can add Elvish ballads to their repertoires.",['Elves'],Elvish,Standard
+giant,Giant,/api/languages/giant,,"['Ogres', 'Giants']",Dwarvish,Standard
+gnomish,Gnomish,/api/languages/gnomish,"The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.",['Gnomes'],Dwarvish,Standard
+goblin,Goblin,/api/languages/goblin,,['Goblinoids'],Dwarvish,Standard
+halfling,Halfling,/api/languages/halfling,"The Halfling language isn't secret, but halflings are loath to share it with others. They write very little, so they don't have a rich body of literature. Their oral tradition, however, is very strong.",['Halflings'],Common,Standard
+infernal,Infernal,/api/languages/infernal,,['Devils'],Infernal,Exotic
+orc,Orc,/api/languages/orc,"Orc is a harsh, grating language with hard consonants. It has no script of its own but is written in the Dwarvish script.",['Orcs'],Dwarvish,Standard
+primordial,Primordial,/api/languages/primordial,,['Elementals'],Dwarvish,Exotic
+sylvan,Sylvan,/api/languages/sylvan,,['Fey creatures'],Elvish,Exotic
+undercommon,Undercommon,/api/languages/undercommon,,['Underdark traders'],Elvish,Exotic
